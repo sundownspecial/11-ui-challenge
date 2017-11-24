@@ -1,9 +1,8 @@
-# Assignment Overview: UI Challenge 2 - BONUS ASSIGNMENT
-### DUE: 11:59pm on Sunday 12 November
+# Assignment Overview: UI Challenge 2
 
 ## Custom Form Elements Using Sprites
 
-For this bonus assignment you will be building a series of custom form elements, some of which will require the use of a provided sprite-sheet.
+For this assignment you will be building a series of custom form elements, some of which will require the use of a provided sprite-sheet.
 
 This is an independent project, but your are free to collaborate with your classmates.
 
